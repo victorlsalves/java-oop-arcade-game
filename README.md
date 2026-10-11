@@ -29,9 +29,3 @@
     - 31/10/2023 - Cronograma Previsto de atividades e apresentação do jogo que será construído;
     - 16/11/2023 - Diagrama de classes e parcial do código (Apresentação);
     - 07/12/2023 - Apresentação Final do Projeto e entrega do relatório;
-
-+ Observações:
-
-    - Os códigos deverão ser mantidos em um repositório *Github* com um projeto e gerenciamento de
-    atividades seguindo o kanban:
-        . to-do / doing / dong 
